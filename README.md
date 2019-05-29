@@ -1,5 +1,6 @@
 # cafeteria-hamburgers-menu
-front-end project
+
+#### front-end project with react js
 
 ## Instructions for deploy front-end  cafeteria-hamburgers-menu 
 
